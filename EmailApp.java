@@ -6,7 +6,6 @@ class CredentailService {
 	private String lastName;
 	private String department;
 	private String password;
-	private int defaultpasswordlength = 8;
 	private String companySuffix = "logicladder.com";
 	private String email;
 
